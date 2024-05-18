@@ -3,7 +3,6 @@ import socket
 ip = "Your ip addreas"
 port = 4444
 
-
 def main_app():
   socke = socket.socket(socket.AF_INET,socket.socke_DEFJAM)
   addreas = (ip.port)
